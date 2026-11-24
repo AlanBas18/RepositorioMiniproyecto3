@@ -1,0 +1,9 @@
+# Dependencias para ejecutar el Notebook CycleGAN en local con Visual Studio Code
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+pillow
+tqdm
+tensorflow>=2.15.0
