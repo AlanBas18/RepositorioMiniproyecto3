@@ -1,7 +1,10 @@
 # Miniproyecto 3: Conversión de Escenas Diurnas a Nocturnas con CycleGAN
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ncPuuHFTQE7GEdXsXIblcEQ_qjBBSk1i?usp=sharing)
+
 **Curso:** Redes Neuronales y Deep Learning — Universidad Autónoma de Occidente  
-**Repositorio:** `https://github.com/AlanBas18/RepositorioMiniproyecto3`
+**Repositorio:** `https://github.com/AlanBas18/RepositorioMiniproyecto3`  
+**Google Colab:** https://colab.research.google.com/drive/1ncPuuHFTQE7GEdXsXIblcEQ_qjBBSk1i?usp=sharing
 
 Proyecto de traducción bidireccional de imágenes no emparejadas (*unpaired image-to-image translation*) entre escenas urbanas de **Día (Dominio A)** y **Noche (Dominio B)** mediante una red **CycleGAN**.
 
